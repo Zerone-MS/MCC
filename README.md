@@ -1,1 +1,1 @@
-# MCC
+# MCC (Merchant category codes)
